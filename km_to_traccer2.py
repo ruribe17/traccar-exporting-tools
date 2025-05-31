@@ -3,10 +3,10 @@ import requests
 import os
 
 # Configuración del usuario y servidor
-TRACCAR_URL = "http://traccar.scgnet.eu.org:32082/api"  # Cambia según tu servidor
-EMAIL = "josevictorhugo.arevalopacora@gmail.com"  # Tu email de Traccar
-PASSWORD = "Watch2030"  # Tu contraseña de Traccar
-KML_FILE_PATH = "geo2025.kml"  # Ruta del archivo KML
+TRACCAR_URL = "https://traccar.mydomain/api"  # Cambia según tu servidor
+EMAIL = "joedoe@gmail.com"  # Tu email de Traccar
+PASSWORD = "mypassword"  # Tu contraseña de Traccar
+KML_FILE_PATH = "mygeo.kml"  # Ruta del archivo KML
 
 # Autenticación en Traccar
 def authenticate():
