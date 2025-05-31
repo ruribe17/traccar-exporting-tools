@@ -80,7 +80,7 @@ You are free to:
 ## 📌 Contributing  
 - **Issues**: Report bugs or request features via GitHub issues.  
 - **Pull Requests**: Welcome improvements or new features.  
-- **Contact**: Reach out to the author at [renzo.uribe@example.com](mailto:renzo.uribe@example.com).  
+- **Contact**: Reach out to the author at [renzouribe2010@gmail.com](mailto:renzouribe2010@gmail.com).  
 
 ---
 
@@ -91,4 +91,4 @@ You are free to:
 
 ---  
 **Original Author**: Renzo Uribe  
-**GitHub**: [https://github.com/ruribe17/traccar-exporting-tools/tree/main](https://github.com/ruribe17/traccar-exporting-tools/tree/main]
+**GitHub**: [https://github.com/ruribe17/traccar-exporting-tools/tree/main](https://github.com/ruribe17/traccar-exporting-tools/tree/main) ✅
