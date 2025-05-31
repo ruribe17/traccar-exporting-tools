@@ -34,10 +34,10 @@ This Python script converts geofences defined in **KML (Keyhole Markup Language)
 Edit the script's top section:  
 
 ```python
-TRACCAR_URL = "http://your-traccar-server:port/api"  # e.g., http://traccar.scgnet.eu.org:32082/api
+TRACCAR_URL = "http://your-traccar-server:port/api"  # e.g., http://traccar.mydomain.org:8082/api
 EMAIL = "your-email@example.com"  # Traccar user email
 PASSWORD = "your-password"  # Traccar user password
-KML_FILE_PATH = "path/to/your/file.kml"  # e.g., "geo2025.kml"
+KML_FILE_PATH = "path/to/your/file.kml"  # e.g., "geo.kml"
 ```
 
 ---
