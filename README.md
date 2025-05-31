@@ -91,4 +91,4 @@ You are free to:
 
 ---  
 **Original Author**: Renzo Uribe  
-**GitHub**: [https://github.com/ruribe17/traccar-exporting-tools/tree/main]([https://github.com/ruribe17/traccar-exporting-tools/tree/main])
+**GitHub**: [https://github.com/ruribe17/traccar-exporting-tools/tree/main](https://github.com/ruribe17/traccar-exporting-tools/tree/main]
